@@ -1,0 +1,35 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": [
+                "Ramesh"
+            ],
+            "family": "Kumar"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1997-09-08",
+    "telecom": [
+        {
+            "value": "9876543210",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "abcd@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "123, Residency"
+            ],
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "postalCode": "700135"
+        }
+    ]
+}
